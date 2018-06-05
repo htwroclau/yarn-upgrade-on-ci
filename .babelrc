@@ -1,0 +1,19 @@
+{
+    "presets": [
+        [
+            "env",
+            {
+                "targets": {
+                    "node": 6
+                },
+                "useBuiltIns": true
+            }
+        ]
+    ],
+    "env": {
+        "development": {
+            "plugins": []
+        }
+    }
+}
+
