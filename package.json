@@ -1,6 +1,6 @@
 {
   "name": "yarn-upgrade-on-ci",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "index.js",
   "author": "htwroclau <thajime207@gmail.com>",
   "license": "MIT",
